@@ -1,0 +1,1 @@
+[{"op":"Extract IP addresses","args":[true,false,false,false,true,false]},{"op":"Unique","args":["Line feed",true]},{"op":"Sort","args":["Line feed",true,"Numeric"]}]

@@ -1,0 +1,1 @@
+[{"op":"Fork","args":["\\n","\\n",false]},{"op":"Parse User Agent","args":[]},{"op":"Count occurrences","args":[{"option":"Regex","string":"(OS\\n\\s*Name:\\s*Android)"}]},{"op":"Merge","args":[true]},{"op":"Sum","args":["Line feed"]}]
